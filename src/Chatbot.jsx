@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState } from 'react';
 import robo from './assets/robo.jpeg'
 import person from './assets/person.jpeg'
 function Chatbot() {
